@@ -8,10 +8,6 @@ Lately, Deep Learning has had a tremendous amount of attention especially in med
 
 ECG Heartbeat classification.
 
-## Dataset: 
-
-ECG Heartbeatcategorization dataset: https://www.kaggle.com/shayanfazeli/heartbeat
-
 
 ### The components you must complete are:
 
